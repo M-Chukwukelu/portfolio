@@ -20,13 +20,13 @@ This project serves as a central place to present:
 
 ## Tech Stack
 Built with:
+- Astro
+- TypeScript
 - HTML5
 - CSS3
 - JavaScript
-- React
-- TypeScript
-- Tailwind CSS
-- Bootstrap
+- Node.js
+- npm
 
 ## Project Structure
 <span style="color:red;">To Be Added Upon Completion</span>
