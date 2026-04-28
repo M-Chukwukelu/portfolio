@@ -27,6 +27,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: "https://m-chukwukelu.github.io",
-  base: "/portfolio",
+  base: "/portfolio/",
   integrations: [sitemap()]
 });
