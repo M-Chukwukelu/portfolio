@@ -1,0 +1,47 @@
+---
+// components
+import Section from "../../elements/Section.astro";
+import WritingCard from "../../elements/WritingCard.astro";
+import Heading from "../../elements/Heading.astro";
+
+// content collection
+import { getCollection } from "astro:content";
+const writing = await getCollection("writing");
+
+const fiction = writing.filter((entry) => entry.data.type === "Fiction");
+const nonFiction = writing.filter((entry) => entry.data.type === "Non-Fiction");
+const academic = writing.filter((entry) => entry.data.type === "Academic");
+---
+
+<Section
+    aria-label="Writing"
+    title="Published Work!"
+    titleHeading="Writing"
+>
+    {academic.length > 0 && (
+        <div class="flex flex-col gap-24">
+            <Heading tagName="h3" tagSize="h3">Academic</Heading>
+            {academic.map((entry) => (
+                <WritingCard {...entry.data} />
+            ))}
+        </div>
+    )}
+    
+    {fiction.length > 0 && (
+        <div class="flex flex-col gap-24">
+            <Heading tagName="h3" tagSize="h3">Fiction</Heading>
+            {fiction.map((entry) => (
+                <WritingCard {...entry.data} />
+            ))}
+        </div>
+    )}
+
+    {nonFiction.length > 0 && (
+        <div class="flex flex-col gap-24">
+            <Heading tagName="h3" tagSize="h3">Non-Fiction</Heading>
+            {nonFiction.map((entry) => (
+                <WritingCard {...entry.data} />
+            ))}
+        </div>
+    )}
+</Section>

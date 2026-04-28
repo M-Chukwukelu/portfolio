@@ -1,0 +1,25 @@
+- id: 1
+  year: "March, 2023"
+  title: "The Rain is to Blame"
+  honour: "Longlisted"
+  competition: "The 2023 Commonwealth Short Story Prize"
+  awarder: "The Commonwealth Foundation"
+  isWinner: false
+
+- id: 2
+  year: "February, 2024"
+  title: "Before the Bees Took Sudden Flight"
+  honour: "Longlisted"
+  competition: "New Writers Flash Fiction Competition 2024"
+  awarder: "NewWriters.org.uk"
+  link: "https://newwriters.org.uk/competitions/winners/flash-results-2024/"
+  isWinner: false
+
+# - id: 1
+#   year: "2025"
+#   honour: "Yacowar Award"
+#   competition: "Some Competition"
+#   link: "https://example.com"
+#   title: "Piece Title"
+#   awarder: "Organization Name"
+#   isWinner: false

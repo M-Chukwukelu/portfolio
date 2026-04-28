@@ -1,0 +1,14 @@
+- id: 1
+  title: Technology Intern — Abams Industries Limited
+  timeline: May 2025 — August 2025
+  description: Built internal data-backed tools and automated workflows using SQL-backed systems, React, and Supabase. Supported data modeling, backend logic, and operational reporting, while contributing to workflow automation, troubleshooting, and technical documentation.
+
+- id: 2
+  title: Undergraduate Researcher — University of Calgary
+  timeline: 2025 — Present
+  description: Conduct empirical software engineering research on toxic interactions and developer retention in open-source projects. Build data pipelines, apply survival analysis methods, and analyze large-scale developer activity to study software ecosystem behavior.
+
+- id: 3
+  title: STEM Mentor — BrainSTEM Alliance
+  timeline: July 2024 — July 2025
+  description: Mentored students through STEM programming, guided problem solving activities, and supported outreach initiatives designed to build curiosity and confidence in science and technology.

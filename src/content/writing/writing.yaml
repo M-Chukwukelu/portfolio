@@ -1,0 +1,118 @@
+- id: 1
+  title: "When Brass and Iron Glow For Home"
+  publisher: "The Firework Arts Journal"
+  link: "https://fireworkjournal.wordpress.com/wp-content/uploads/2023/10/october-2023-issue-6-1.pdf"
+  type: "Fiction"
+  isAwarded: false
+
+- id: 2
+  title: "The Ramifications of Everything"
+  publisher: "The Firework Arts Journal"
+  link: "https://fireworkjournal.wordpress.com/wp-content/uploads/2024/02/february-2024-issue-2.pdf"
+  type: "Fiction"
+  isAwarded: false
+
+- id: 3
+  title: "Putting a paywall on official academic documents only testifies to an inconsumable greed"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/04/22/putting-a-paywall-on-official-academic-documents-only-testifies-to-an-inconsumable-greed/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 4
+  title: "The struggles of finding a summer internship as a student in Calgary"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/05/02/the-struggle-of-finding-a-summer-internship-as-a-student-in-calgary/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 5
+  title: "Calgary Hidden Gems: The Laugh Shop"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/06/09/calgary-hidden-gems-the-laugh-shop/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 6
+  title: "For the love of sports: Cavalry FC"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/07/29/for-the-love-of-sports-cavalry-fc/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 7
+  title: "A right to be heard, a duty to listen: the aftermath of the Bangladesh student protests"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/07/31/a-right-to-be-heard-a-duty-to-listen-the-aftermath-of-the-bangladesh-student-protests/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 8
+  title: "FROSH 2024: Clubs to join at the U of C', publisher: 'The Gauntlet Publication Society"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/09/05/frosh-2024-clubs-to-join-at-the-u-of-c/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 9
+  title: "We need to talk about X"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/09/10/we-need-to-talk-about-x/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 10
+  title: "Lionel Messi: a legacy that lives on"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/10/20/lionel-messi-a-legacy-that-lives-on/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 11
+  title: "Buildup To Playoffs: Cavalry FC"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/10/27/buildup-to-playoffs-cavalry-fc/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 12
+  title: "Victory: Cavalry FC clinch coveted North Star Cup',"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2024/11/29/victory-cavalry-fc-clinch-coveted-north-star-cup//"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 13
+  title: "Does AI belong in creative spaces? The Brutalist sparks debate"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2025/02/13/does-ai-belong-in-creative-spaces-the-brutalist-sparks-debate/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 14
+  title: "All eyes on them: why is the NCAA far more popular than U SPORTS?"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2025/02/16/all-eyes-on-them-why-is-the-ncaa-far-more-popular-than-u-sports/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 15
+  title: "North American sports are brewing a gambling problem"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2025/03/02/north-american-sports-are-brewing-a-gambling-problem/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 16
+  title: "Album Review: Doechii’s Alligator Bites Never Heal"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2025/03/09/album-review-doechiis-alligator-bites-never-heal/"
+  type: "Non-Fiction"
+  isAwarded: false
+
+- id: 17
+  title: "Cavalry FC’s historic CONCACAF’s Champions Cup run comes to heartbreaking end"
+  publisher: "The Gauntlet Publication Society"
+  link: "https://thegauntlet.ca/2025/03/23/cavalry-fcs-historic-concacafs-champions-cup-run-comes-to-heartbreaking-end/"
+  type: "Non-Fiction"
+  isAwarded: false

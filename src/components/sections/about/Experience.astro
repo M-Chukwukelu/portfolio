@@ -1,0 +1,25 @@
+---
+// components
+import Section from "../../elements/Section.astro";
+import ExperienceCard from "../../elements/ExperienceCard.astro";
+
+// content collection
+import { getCollection } from "astro:content";
+const experience = await getCollection("experience");
+---
+
+<Section 
+    aria-label="Experience"
+    title="Where Have I Worked"
+    titleHeading="Experience"
+>
+    {
+            experience.map((entry) => (
+                <ExperienceCard 
+                    title={entry.data.title}
+                    timeline={entry.data.timeline}
+                    description={entry.data.description}
+                />
+            ))
+        }
+</Section>

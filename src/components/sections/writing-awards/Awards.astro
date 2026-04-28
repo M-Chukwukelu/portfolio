@@ -1,0 +1,29 @@
+---
+// components
+import Section from "../../elements/Section.astro";
+import AwardCard from "../../elements/AwardCard.astro";
+
+// content collection
+import { getCollection } from "astro:content";
+const awards = await getCollection("awards");
+---
+
+<Section
+    aria-label="Awards"
+    title="Times I Have Been Recognized or Honoured!"
+    titleHeading="AWARDS"
+>
+    {
+        awards.map((award) => (
+            <AwardCard
+                year={award.data.year}
+                honour={award.data.honour}
+                competition={award.data.competition}
+                link={award.data.link}
+                title={award.data.title}
+                awarder={award.data.awarder}
+                isWinner={award.data.isWinner}
+            />
+        ))
+    }
+</Section>
