@@ -22,6 +22,7 @@ This project serves as a central place to present:
 Built with:
 - Astro
 - TypeScript
+- Tailwind CSS
 - HTML5
 - CSS3
 - JavaScript
@@ -29,14 +30,36 @@ Built with:
 - npm
 
 ## Project Structure
-<span style="color:red;">To Be Added Upon Completion</span>
+```text
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── content/
+│   ├── layout/
+│   ├── pages/
+│   └── styles/
+├── astro.config.mjs
+├── package.json
+└── README.md
+```
 
-## Viewing
-<span style="color:red;">To Be Added Upon Completion</span>
+## Viewing Locally
+Install dependencies:
+``` bash
+npm install
+```
+Start the development server:
+``` bash
+npm run dev
+```
+Then open
+``` bash
+http://localhost:4321
+```
 
 ## Deployment
-This site <span style="color:red;">will</span> be deployed using:
-- [GitHub Pages](https://pages.github.com/)
+This site is deployed using [GitHub Pages](https://m-chukwukelu.github.io/portfolio).
 
 ## Author
 Marvellous Chukwukelu
